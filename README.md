@@ -1,3 +1,3 @@
 # Readme 
 
-** For the repo called second **
+* For the repo called second *
